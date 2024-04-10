@@ -15,7 +15,7 @@ The tax calculation works based on the following formula:
 ## Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/shaunak-09/Tax-Calculator.git
 ```
 
 
@@ -23,7 +23,7 @@ git clone <repository-url>
 ## Navigate to the Project Directory
 
 ```bash
-cd tax-calculation-project
+cd Tax Calculator
 ```
 
 ##Usage
