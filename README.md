@@ -23,7 +23,7 @@ git clone https://github.com/shaunak-09/Tax-Calculator.git
 ## Navigate to the Project Directory
 
 ```bash
-cd Tax Calculator
+cd Tax-Calculator
 ```
 
 ##Usage
