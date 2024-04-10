@@ -26,7 +26,7 @@ git clone https://github.com/shaunak-09/Tax-Calculator.git
 cd Tax-Calculator
 ```
 
-##Usage
+## Usage
 
 - Open index.html in a web browser to view the tax calculation form.
 - Enter values for gross annual income, extra income, deductions, and select an age group from the dropdown.
